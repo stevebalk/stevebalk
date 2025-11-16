@@ -24,5 +24,5 @@ These are the projects I finished before I graduated:
 | 05 | [CPP06](https://github.com/stevebalk/42_CPP_modules/tree/master/CPP06) | C++ | Module about the different cast types in C++. |
 | 05 | [CPP07](https://github.com/stevebalk/42_CPP_modules/tree/master/CPP07) | C++ | Module about Templates in C++. |
 | 05 | [CPP08](https://github.com/stevebalk/42_CPP_modules/tree/master/CPP08) | C++ | Module about templated containers, iterators, and algorithms in C++. |
-| 05 | [CPP09](https://github.com/stevebalk/42_CPP_modules/tree/master/CPP09) | C++ | Module about choosing the best container for a given scenario, implementing the Ford-Johnson algorithms in C++. |
+| 05 | [CPP09](https://github.com/stevebalk/42_CPP_modules/tree/master/CPP09) | C++ | Module about choosing the best container for a given scenario, implementing the Ford-Johnson algorithm in C++. |
 | 05 | [WebServ](https://github.com/wrottger/webserv) | C++ | Creating a whole C++ Webserver from scratch (Conforming to the RFC HTTP 1.1 Standard). The server also supports the Common Gateway Interface for script execution. |
