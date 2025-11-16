@@ -2,7 +2,7 @@
 
 #### 42Wolfsburg - Student Software Engineering
 
-As a Software Engineering student at 42Wolfsburg, I possess extensive expertise in programming with C and C++. My practical experience has been gained through a variety of projects, including:
+These are the projects I finished when I graduated:
 
 | Rank | Project | Language | Short Summary |
 |:----:|:-------:|:--------:|:--------------|
