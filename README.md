@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-These are the projects I finished before I graduated:
+These are the projects that I completed before graduating:
 
 | Rank | Project | Language | Short Summary |
 |:----:|:-------:|:--------:|:--------------|
