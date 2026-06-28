@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### 42Wolfsburg - Student Software Engineering
-
 These are the projects I finished before I graduated:
 
 | Rank | Project | Language | Short Summary |
