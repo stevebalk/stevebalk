@@ -6,7 +6,7 @@ These are the projects that I completed before graduating:
 |:----:|:-------:|:--------:|:--------------|
 | 00 | [libft](https://github.com/stevebalk/libft) | C | Developing our own version of functions from the standard libc and also some that are either not in the libc or that are part of it but in a different form. |
 | 01 | [ft_printf](https://github.com/stevebalk/ft_printf) | C | Writing our own printf function by understanding and using variadic functions. |
-| 01 | [get_next_line](https://github.com/stevebalk/get_next_line) | C | gProgramming a function that returns a line read from a file descriptor. |
+| 01 | [get_next_line](https://github.com/stevebalk/get_next_line) | C | Programming a function that returns a line read from a file descriptor. |
 | 02 | [pipex](https://github.com/stevebalk/pipex) | C | Learning and implementing the concepts of redirections, pipes, child, and parent processes. |
 | 02 | [push_swap](https://github.com/stevebalk/push_swap) | C | Sorting data on a stack with a limited set of instructions and the smallest number of moves. |
 | 02 | [fdf](https://github.com/stevebalk/fdf) | C | Representing a landscape model as a 3D object where all surfaces are outlined in lines (wireframe model), using the MiniLibX graphical library. |
